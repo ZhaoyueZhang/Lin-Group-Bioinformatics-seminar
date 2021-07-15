@@ -1,0 +1,3 @@
+Thu	Biological Databases
+Fri	Programming
+Sun	Basic Statistics
